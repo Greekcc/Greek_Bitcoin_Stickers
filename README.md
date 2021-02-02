@@ -1,1 +1,1 @@
-# bitcoin_stickers
+# GCC Bitcoin Stickers
