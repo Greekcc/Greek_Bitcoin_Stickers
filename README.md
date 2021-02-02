@@ -1,4 +1,4 @@
-# GCC Bitcoin Stickers
+# Greek Bitcoin Stickers
 
 ![alt text](https://github.com/Greekcc/bitcoin_stickers/blob/main/bitcoin_sticker_trapeza.jpg?raw=true)
 
